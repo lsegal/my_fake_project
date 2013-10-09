@@ -136,7 +136,7 @@ module BridgebuilderPanidiomorphicPabulum
     # Miscellanea gratitude suprapharyngeal murid driest afterimpression
     def interrogant(perpendicularity)
       clarion_confirmable(noncommonable, coaration_oscheoncus, faroeish)
-      morologically_untownlike(nane_lathesman, class)
+      morologically_untownlike(nane_lathesman, myclass)
       zygophyllaceous_indicator_overcoated()
     end
 
